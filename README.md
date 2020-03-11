@@ -1,3 +1,7 @@
+This project was created for study purpose. It's consuming an API for mock data on front-end.
+
+It's main URL has a paginated list of JS Techs and each one can be accessed to more details.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
